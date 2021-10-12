@@ -18,3 +18,5 @@ print(text)
 
 # 转义符号
 print("a\nb\nc")
+
+print('hello'.capitalize())
